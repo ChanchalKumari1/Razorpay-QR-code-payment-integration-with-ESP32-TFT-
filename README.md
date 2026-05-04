@@ -94,7 +94,7 @@ panel_handle	TFT display panel handle for LCD operations
 png_line_buffer[320]	Staging buffer for PNG decoder output lines
 
 # 11. API Constants (upi_defines.h)
-Base URL: https://digitalmonk.biz/upi
+Base URL: https://digitalmonk.biz/ upi
 Endpoints: /admin/add_merchant.php (registration), /api/get_qr.php (QR code), /api/payment_status.php (payment check)
 
 # 12. Critical Sections
