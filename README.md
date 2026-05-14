@@ -3,6 +3,23 @@
 # 1. System Overview
 The ESP32 based Razorpay UPI Payment System is an embedded application that enables merchants to accept UPI payments through QR codes displayed on an ILI9341 TFT touchscreen. The system features WiFi connectivity, web-based merchant registration, and real-time payment status monitoring with PNG QR code decoding.
 
+This project demonstrates real-time Razorpay QR payment integration using ESP32 and TFT display for embedded payment systems.
+This implementation uses ESP32 firmware, TFT interface, and QR-based payment workflow for smart embedded applications.
+Learn more about our [customizable vending machines](https://digitalmonk.biz/custom-vending-machine-development/) and smart retail automation solutions.
+
+## Features
+
+- Razorpay QR integration
+- ESP32 firmware
+- TFT display interface
+- Real-time payment workflow
+
+## Features
+- Razorpay QR integration
+- ESP32 firmware
+- TFT display interface
+- Real-time payment workflow
+
 # 2. Architecture
 Entry Point: main.c initializes the system, creates task queues, and starts WiFi and web server. Core Components:
 
